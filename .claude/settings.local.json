@@ -1,0 +1,9 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(node --check /home/phil/Desktop/TrangProject/js/mock-test.js)",
+      "WebFetch(domain:ieltstrainingonline.com)",
+      "WebSearch"
+    ]
+  }
+}
