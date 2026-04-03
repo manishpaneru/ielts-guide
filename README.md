@@ -1,6 +1,8 @@
-# Learn With Trang — IELTS Preparation Platform
+# IELTS Guide — IELTS Preparation Platform
 
 A browser-based, single-page application for IELTS exam preparation. Includes full mock tests for all four skills, targeted practice exercises, score tracking with trend charts, and a password-protected admin panel for complete content management.
+
+**Credits**: Maintained and developed by [Manish Paneru](https://github.com/manishpaneru).
 
 ---
 
